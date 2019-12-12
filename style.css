@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.via
+{
+    
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+   
+   
+}
+
+.happy{
+    font-size: 100px;
+    text-align: center;
+    color: yellow;
+}
+
+.mySlides
+{
+
+    width: 500px;
+    height: 500px;
+}
+
+
+
+.greeting{
+    background-color: #ffdbdb;
+    margin: 70px;
+    padding: 30px;
+    color: maroon;
+    border: solid pink;
+    font-size: 20px;
+    font-family: Calibri;
+}
+
+.body
+{
+
+    height: 800px;
+  background-image: linear-gradient(rgb(77, 0, 77),pink,rgb(77, 0, 77));
+}
